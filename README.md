@@ -9,8 +9,9 @@ OC: September 2024 (1.0.1)
 ## What doesn't work
 
 - Airdrop / Sidecar
-- Trackstick [WIP]
+- Trackstick and upper touchpad buttons [WIP]
 - Network button on the keyboard
+- Touchpag toggle button
 - Connecting to personal iOS hotstops directly
   ![Personal hotspots](docs/personal%20hotspots.png)
 
