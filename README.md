@@ -13,6 +13,7 @@ OC: September 2024 (1.0.1)
 - Network button on the keyboard
 - Touchpag toggle button
 - Connecting to personal iOS hotstops directly
+
   ![Personal hotspots](docs/personal%20hotspots.png)
 
 ## Untested
@@ -40,3 +41,13 @@ In order to fix it, the `CodecCommander.kext` has been included in the config. A
 This fixes the routing to the combojack, therefore enabling the external microphone. You would have to run this everytime you reboot your machine.
 
 I have included a script: `scripts/audiofix.command` which you can simply run everytime on boot.
+
+### Enable lossless on Apple Music
+
+WIP
+
+
+## Kexts (Kernel Extensions)
+
+
+
